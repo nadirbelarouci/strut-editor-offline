@@ -16,8 +16,12 @@ npm start
 ```
 
 This Application was powerd by: 
-www.facebook.com/Ized.tlm
+
+https://www.facebook.com/Ized.tlm
+
 https://github.com/tantaman/Strut
+
 https://github.com/electron/electron
 
-All rights Reserved 
+
+All rights Reserved.
