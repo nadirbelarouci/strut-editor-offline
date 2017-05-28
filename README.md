@@ -17,8 +17,6 @@ npm start
 
 This Application was powerd by: 
 
-https://www.facebook.com/Ized.tlm
-
 https://github.com/tantaman/Strut
 
 https://github.com/electron/electron
