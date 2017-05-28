@@ -15,11 +15,11 @@ npm install
 npm start
 ```
 
-This Application was powerd by: 
+Strut Editor Offline
+Copyright ISmarten Inc. 2017. All Rights Reserved.
+Strut Editor Offline works with Electron Open Source project and Strut.io project.
 
 https://github.com/tantaman/Strut
 
 https://github.com/electron/electron
 
-
-All rights Reserved.
