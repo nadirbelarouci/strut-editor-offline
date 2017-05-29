@@ -15,7 +15,8 @@ npm install
 npm start
 ```
 
-
+You can also download the binaries for Windows Users from here:
+https://sourceforge.net/projects/strut-editor-offline/
 
 Strut Editor Offline
 Copyright ISmarten Inc. 2017. All Rights Reserved.
