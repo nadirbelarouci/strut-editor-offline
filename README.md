@@ -15,17 +15,16 @@ npm install
 npm start
 ```
 
-You can also download the binaries for Windows Users from here:
-https://sourceforge.net/projects/strut-editor-offline/
+You can also download the binaries for Windows Users from <a href="https://sourceforge.net/projects/strut-editor-offline/">here</a>.
 
 Strut Editor Offline
 Copyright ISmarten Inc. 2017. All Rights Reserved.
 
 Strut Editor Offline works with Electron Open Source project and Strut.io project.
 
-https://github.com/tantaman/Strut
+<a href="https://github.com/tantaman/Strut">Strut Github</a>
 
-https://github.com/electron/electron
+<a href="https://github.com/electron/electron">Electron Github</a>
 
 
 
