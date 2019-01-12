@@ -1,8 +1,11 @@
 # strut-editor-offline
 BEST FREE SOFTWARE TO MAKE IMPRESSIVE PRESENTATIONS.
+Strut editor offline is a project based on [Strut project](https://github.com/tantaman/Strut "Strut") and [Electron Project](https://github.com/electron/electron).
 
+This project adds just the offline use feature to Strut and run it as a stand-alone electron application.
 
-To clone and run this repository you'll need Git and Node.js (which comes with npm) installed on your computer. From your command line:
+## Install:
+require Node.js installed on the machine. 
 
 ```bash
 # Clone this repository
@@ -15,16 +18,15 @@ npm install
 npm start
 ```
 
-You can also download the binaries for Windows Users from <a href="https://sourceforge.net/projects/strut-editor-offline/">here</a>.
+Windows,Mac and Linux binaries are available<a href="https://sourceforge.net/projects/strut-editor-offline/">here</a>.
 
 Strut Editor Offline
-Copyright ISmarten Inc. 2017. All Rights Reserved.
 
-Strut Editor Offline works with Electron Open Source project and Strut.io project.
 
-<a href="https://github.com/tantaman/Strut">Strut Github</a>
+### References: 
+<a href="https://github.com/tantaman/Strut">Strut Project</a>
 
-<a href="https://github.com/electron/electron">Electron Github</a>
+<a href="https://github.com/electron/electron">Electron Project</a>
 
 
 
