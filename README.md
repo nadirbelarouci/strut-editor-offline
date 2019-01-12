@@ -19,15 +19,8 @@ npm install
 npm start
 ```
 
-Windows,Mac and Linux binaries are available<a href="https://sourceforge.net/projects/strut-editor-offline/">here</a>.
+Windows,Mac and Linux binaries are available [here](https://sourceforge.net/projects/strut-editor-offline/)
 
-Strut Editor Offline
-
-
-### References: 
-<a href="https://github.com/tantaman/Strut">Strut Project</a>
-
-<a href="https://github.com/electron/electron">Electron Project</a>
 
 
 
