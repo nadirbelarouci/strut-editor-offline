@@ -1,5 +1,6 @@
 # strut-editor-offline
 BEST FREE SOFTWARE TO MAKE IMPRESSIVE PRESENTATIONS.
+
 Strut editor offline is a project based on [Strut project](https://github.com/tantaman/Strut "Strut") and [Electron Project](https://github.com/electron/electron).
 
 This project adds just the offline use feature to Strut and run it as a stand-alone electron application.
